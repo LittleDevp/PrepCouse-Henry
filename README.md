@@ -1,2 +1,1 @@
-# PrepCouse-Henry
-Este comentario es del modulo 2 del prep course de Henry
+Prueba de como crear un repositorio y clonarlo desde github hasta mi computadora.
